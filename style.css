@@ -1,0 +1,47 @@
+.b1{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 60px;
+    border: none;
+}
+.btn{
+    width: 220px;
+}
+.b2{
+  
+    background-color: white;
+    border: solid;
+    color:rgb(0, 255, 170);
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+.b3{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 60px;
+    border: none;
+    border-radius: 6px;
+}
+.b4{
+    background-color: rgb(4, 128, 66);
+    width: 150px;
+    color: white;
+    height: 60px;
+    border-radius: 5px;
+    border-color: rgb(7, 92, 51);
+
+
+
+}
+.b5{
+    background-color: rgb(114, 7, 79);
+    width: 150px;
+    height: 60px;
+    color: white;
+    border: bottom 30px;
+
+}
